@@ -1,0 +1,49 @@
+{
+  "mods": [
+    {
+      "name": "Magic Overhaul",
+      "description": "A comprehensive mod that overhauls the entire game with magic content, new combat mechanics, and epic fights.",
+      "version": "1.0.0",
+      "dependencies": [
+        "Forge",
+        "Minecraft 1.20.1"
+      ]
+    },
+    {
+      "name": "Epic Fight",
+      "description": "Adds new combat mechanics and epic fights to the game.",
+      "version": "1.0.0",
+      "dependencies": [
+        "Forge",
+        "Minecraft 1.20.1"
+      ]
+    },
+    {
+      "name": "Quests",
+      "description": "Adds quests to the game for a more engaging experience.",
+      "version": "1.0.0",
+      "dependencies": [
+        "Forge",
+        "Minecraft 1.20.1"
+      ]
+    },
+    {
+      "name": "New Mobs",
+      "description": "Adds new mobs to the game.",
+      "version": "1.0.0",
+      "dependencies": [
+        "Forge",
+        "Minecraft 1.20.1"
+      ]
+    },
+    {
+      "name": "New Biomes",
+      "description": "Adds new biomes to the game.",
+      "version": "1.0.0",
+      "dependencies": [
+        "Forge",
+        "Minecraft 1.20.1"
+      ]
+    }
+  ]
+}
